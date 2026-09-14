@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img src="relaxo.jpg" alt="Relaxo" width="280">
 
-<!--
-**bimonator/bimonator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # hey, ich bin bimonator
+</div>
 
-Here are some ideas to get you started:
+```json
+{
+  "user": "bimonator",
+  "writes": "python",
+  "os": ["linux mint", "debian", "windows"],
+  "also": ["powershell", "javascript", "css", "git"],
+  "tinkering": ["hackthebox", "raspberry pi", "ollama"],
+  "ping": "discord"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
+</p>
+
+```python
+# consecutive days with ≥1 github contribution
+longest_streak  # live, card below — not a hardcoded flex
+```
+
+<p align="center">
+  <a href="https://github.com/bimonator">
+    <img src="https://streak-stats.demolab.com?user=bimonator&theme=transparent&hide_current_streak=true&hide_total_contributions=true&card_width=420&date_format=j%20M%5B%20Y%5D" alt="longest github streak">
+  </a>
+</p>
+
+### tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,debian,mint,windows,powershell,js,css,git,raspberrypi,android,apple,firefox,discord,stackoverflow&theme=dark" alt="tools">
+</p>
+
+linux · windows · python · powershell · javascript (ab und zu) · css · git · cursor · claude · ollama · stack overflow · hashcat · john the ripper · fastfetch · ios · android · raspberry pi · mullvad · firefox · librewolf · mint · debian
+
+hackthebox hab ich mir angeschaut, mehr nicht.
