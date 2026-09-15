@@ -14,10 +14,8 @@
   "others": ["claude", "cursor"],
 }
 ```
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
-</p>
+  <img src="https://raw.githubusercontent.com/abderrahimghazali/clawd-pet/b208f0c04a4084a17f4e5f5adf5198a752be0b36/public/pets/clawd-working-context-full.svg" width="150">
 
 ```python
 # consecutive days with contribution
