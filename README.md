@@ -1,7 +1,7 @@
 <div align="center">
   <img src="relaxo.jpg" alt="Relaxo" width="280">
 
-  # hey, ich bin bimonator
+  # hey, I am bimonator
 
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
 </div>
