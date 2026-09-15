@@ -1,17 +1,17 @@
 <div align="center">
   <img src="relaxo.jpg" alt="Relaxo" width="280">
 
-  # hey, ich bin bimonator
+  # hey, I am bimonator
 </div>
 
 ```json
 {
   "user": "bimonator",
-  "writes": "python",
+  "writes": "python", "html", "css", 
   "os": ["linux mint", "debian", "windows"],
-  "also": ["powershell", "javascript", "css", "git"],
+  "also": ["powershell", "javascript", "git"],
   "tinkering": ["hackthebox", "raspberry pi", "ollama"],
-  "ping": "discord"
+  "others": ["claude", "cursor"],
 }
 ```
 
@@ -20,8 +20,8 @@
 </p>
 
 ```python
-# consecutive days with ≥1 github contribution
-longest_streak  # live, card below — not a hardcoded flex
+# consecutive days with contribution
+longest_streak  # live
 ```
 
 <p align="center">
@@ -30,20 +30,14 @@ longest_streak  # live, card below — not a hardcoded flex
   </a>
 </p>
 
-### tools
+<p align="center">
+ tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,nodejs,npm,unity,c,py,stackoverflow,raspberrypi,ubuntu,mint,linux,windows,vscode,github,obsidian" />
+    <img src="https://skillicons.dev/icons?i=html,js,git,nodejs,unity,c,py,stackoverflow,raspberrypi,ubuntu,mint,linux,docker,windows,vscode,github,obsidian,discord,npm,powershell,&perline=10" />
   </a>
 </p>
 
-                             linux · windows · mint · debian · ios · android
-
-                                  python · javascript · css · powershell
-
-                             git · cursor · claude · ollama · stack overflow
-
-                          hashcat · john the ripper · raspberry pi · fastfetch
-
-                                    mullvad · firefox · librewolf
+<p align="center">
+Linux · Windows · Python · JavaScript · Git · Networking
