@@ -1,7 +1,7 @@
 <div align="center">
   <img src="relaxo.jpg" alt="Relaxo" width="280">
 
-  # hey, ich bin bimonator
+  # hey, I am bimonator
 </div>
 
 ```json
@@ -36,12 +36,12 @@ longest_streak  # live, card below — not a hardcoded flex
   <img src="https://skillicons.dev/icons?i=python,linux,debian,mint,windows,powershell,js,css,git,raspberrypi,android,apple,firefox,discord,stackoverflow&theme=dark" alt="tools">
 </p>
 
-                             linux · windows · mint · debian · ios · android
+                              linux · windows · mint · debian · ios · android
 
-                                  python · javascript · css · powershell
+                                   python · javascript · css · powershell
 
-                             git · cursor · claude · ollama · stack overflow
+                              git · cursor · claude · ollama · stack overflow
 
-                          hashcat · john the ripper · raspberry pi · fastfetch
-
-                                    mullvad · firefox · librewolf
+                           hashcat · john the ripper · raspberry pi · fastfetch
+ 
+                                     mullvad · firefox · librewolf
