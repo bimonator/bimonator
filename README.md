@@ -21,8 +21,9 @@
   <img src="./pets/clawd-working-overheated.svg" width="200">
 
 
-  [![](https://ghstats.dev/api/sparkline?username=bimonator&days=30&width=420)](https://github.com/rowkav09/GitHub-profile-stats) 
 
+<p align="center">
+  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
     
   ```python
@@ -35,7 +36,7 @@ longest_streak:
   </a>
 </p>
 
-
+  [![](https://ghstats.dev/api/sparkline?username=bimonator&days=30&width=420)](https://github.com/rowkav09/GitHub-profile-stats) 
 <p align="center">
  tools
 
