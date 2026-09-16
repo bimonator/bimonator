@@ -15,9 +15,12 @@
 }
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abderrahimghazali/clawd-pet/b208f0c04a4084a17f4e5f5adf5198a752be0b36/public/pets/clawd-working-context-full.svg" width="150">
+  <img src="./pets/clawd-coding.svg" width="150">
+  <img src="./pets/clawd-working-pushing.svg" width="150">
+  <img src="./pets/clawd-working-typing.svg" width="150">
 
-```python
+  
+  ```python
 # consecutive days with contribution
 longest_streak  # live
 ```
