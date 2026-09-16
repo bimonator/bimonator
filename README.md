@@ -33,6 +33,8 @@ longest_streak:
   </a>
 </p>
 
+![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
+
 <p align="center">
  tools
 
