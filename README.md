@@ -36,9 +36,20 @@
 <p align="center">
    Linux · Windows · Python · JavaScript · Git · Networking
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 
-<p align="center"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Pi">
-<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" alt="Linux">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bimonator.bimonator" alt="Visitors"></p>
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat-square&logo=claudecode&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/Qwen-%236950EF.svg?style=flat-square&logo=qwen&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=flat-square&logo=gnome&logoColor=white">
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bimonator.bimonator">
+
