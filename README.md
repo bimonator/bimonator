@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="relaxo.jpg" alt="Relaxo" width="280">
+  <img src="relaxo.jpg" alt="Relaxo" width="700">
 
   # hey, I am bimonator
 </div>
@@ -15,36 +15,30 @@
 }
 ```
 <p align="center">
-  <img src="./pets/clawd-coding.svg" width="200">
-  <img src="./pets/clawd-working-pushing.svg" width="200">
-  <img src="./pets/clawd-working-typing.svg" width="200">
-  <img src="./pets/clawd-working-overheated.svg" width="200">
-
-
-
-<p align="center">
+  <img src="./pets/clawd-coding.svg" width="250">
   <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+  <img src="./pets/clawd-working-typing.svg" width="250">
 
-    
-  ```python
-longest_streak:
-```
 
-<p align="center">
-  <a href="https://github.com/bimonator">
-    <img src="https://streak-stats.demolab.com?user=bimonator&theme=transparent&hide_current_streak=true&hide_total_contributions=true&card_width=420&date_format=j%20M%5B%20Y%5D" alt="longest github streak">
-  </a>
-</p>
-
-  [![](https://ghstats.dev/api/sparkline?username=bimonator&days=30&width=420)](https://github.com/rowkav09/GitHub-profile-stats) 
 <p align="center">
  tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,git,nodejs,unity,c,py,stackoverflow,raspberrypi,ubuntu,mint,linux,docker,windows,vscode,github,obsidian,discord,npm,powershell,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,js,git,nodejs,unity,c,py,stackoverflow,raspberrypi,ubuntu,mint,linux,docker,windows,vscode,github,obsidian,discord,npm,powershell,&perline=20" />
   </a>
 </p>
 
+
+![snake](https://raw.githubusercontent.com/bimonator/bimonator/output/snake.svg)
+  
+
 <p align="center">
-Linux · Windows · Python · JavaScript · Git · Networking
+   Linux · Windows · Python · JavaScript · Git · Networking
+
+
+<p align="center"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" alt="Linux">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=bimonator.bimonator" alt="Visitors"></p>
