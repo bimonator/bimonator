@@ -19,9 +19,11 @@
   <img src="./pets/clawd-working-pushing.svg" width="200">
   <img src="./pets/clawd-working-typing.svg" width="200">
   <img src="./pets/clawd-working-overheated.svg" width="200">
-  
-  
-    
+
+
+  [![](https://ghstats.dev/api/sparkline?username=bimonator&days=30&width=420)](https://github.com/rowkav09/GitHub-profile-stats) 
+
+
     
   ```python
 longest_streak:
