@@ -15,14 +15,16 @@
 }
 ```
 <p align="center">
-  <img src="./pets/clawd-coding.svg" width="150">
-  <img src="./pets/clawd-working-pushing.svg" width="150">
-  <img src="./pets/clawd-working-typing.svg" width="150">
-
+  <img src="./pets/clawd-coding.svg" width="200">
+  <img src="./pets/clawd-working-pushing.svg" width="200">
+  <img src="./pets/clawd-working-typing.svg" width="200">
+  <img src="./pets/clawd-working-overheated.svg" width="200">
   
+  
+    
+    
   ```python
-# consecutive days with contribution
-longest_streak  # live
+longest_streak:
 ```
 
 <p align="center">
