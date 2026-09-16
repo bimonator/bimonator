@@ -33,7 +33,6 @@ longest_streak:
   </a>
 </p>
 
-![snake](https://raw.githubusercontent.com/bimonator/bimonator/output/snake.svg)
 
 <p align="center">
  tools
