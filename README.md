@@ -15,9 +15,9 @@
 }
 ```
 <p align="center">
-  <img src="./pets/clawd-coding.svg" width="250">
+  <img src="./pets/clawd-coding.svg" width="200">
   <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
-  <img src="./pets/clawd-working-typing.svg" width="250">
+  <img src="./pets/clawd-working-typing.svg" width="200">
 
 
 <p align="center">
