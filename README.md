@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat-square&logo=claudecode&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/Qwen-%236950EF.svg?style=flat-square&logo=qwen&logoColor=white">
+  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
 
   <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
   <img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=flat-square&logo=gnome&logoColor=white">
