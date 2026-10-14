@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
   <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat-square&logo=claudecode&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
